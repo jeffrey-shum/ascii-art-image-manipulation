@@ -1,6 +1,6 @@
 # ASCII Art
 
-Convert images to ASCII representations
+Convert images to ASCII representations and print in a shell
 
 ## Technologies
 
